@@ -7,3 +7,7 @@
 .card-title {
   cursor: pointer;
 }
+
+h5:hover {
+  color: red;
+}
